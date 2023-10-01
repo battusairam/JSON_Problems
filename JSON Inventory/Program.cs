@@ -47,6 +47,7 @@ namespace JSON_Inventory
             {
                 Console.WriteLine($"Error: {ex.Message}");
             }
+            
         }
     }
 }
