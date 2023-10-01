@@ -28,7 +28,7 @@ namespace PracticeProblem
                     if (arr[i] == arr[j])
                     {
                         count++;
-                        break; // Break the inner loop once a duplicate is found for the current element.
+                        break;  
                     }
                 }
             }
