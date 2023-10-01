@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\bin\Debug\net6.0\PracticeProblem.exe
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\bin\Debug\net6.0\PracticeProblem.deps.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\bin\Debug\net6.0\PracticeProblem.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\bin\Debug\net6.0\PracticeProblem.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\bin\Debug\net6.0\PracticeProblem.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\refint\PracticeProblem.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\PracticeProblem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\PracticeProblem\obj\Debug\net6.0\ref\PracticeProblem.dll

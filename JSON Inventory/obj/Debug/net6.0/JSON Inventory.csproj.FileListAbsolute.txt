@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\JSON Inventory.exe
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\JSON Inventory.deps.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\JSON Inventory.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\JSON Inventory.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\JSON Inventory.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\refint\JSON Inventory.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\JSON Inventory.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\JSON Problems\JSON Inventory\obj\Debug\net6.0\ref\JSON Inventory.dll
